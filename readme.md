@@ -1,4 +1,4 @@
-# Java Codrs
+# Java Codes
 
 This repository contains collection of various Java codes that I have written for DSA or Assignments
 
