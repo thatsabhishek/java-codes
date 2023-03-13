@@ -8,3 +8,4 @@ If the list becomes too long you can search the program using `ctrl + f` on wind
 
 - Normal Programs
    - [Prime numbers](./programs/Prime.java)
+   - [Even number](programs/Evennums.java)
