@@ -12,3 +12,5 @@ If the list becomes too long you can search the program using `ctrl + f` on wind
 - Searching
    - [Linear Search](programs/LinearSearch.java)
    - [Binary Search](programs/BinarySearch.java)
+- Sorting
+   - [Bubble Sort](/programs/BubbleSort.java)
