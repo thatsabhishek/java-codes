@@ -8,7 +8,7 @@ If the list becomes too long you can search the program using `ctrl + f` on wind
 
 - Normal Programs
    - [Prime numbers](./programs/Prime.java)
-   - [Even number](programs/Evennums.java)
+   - [Even or Odd number](programs/Evennums.java)
    - [Sum of first N numbers](programs/SumOfNNumbers.java)
 - Searching
    - [Linear Search](programs/LinearSearch.java)
