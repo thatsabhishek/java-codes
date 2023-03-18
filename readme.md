@@ -15,3 +15,4 @@ If the list becomes too long you can search the program using `ctrl + f` on wind
    - [Binary Search](programs/BinarySearch.java)
 - Sorting
    - [Bubble Sort](/programs/BubbleSort.java)
+   - [Quick Sort](./programs/QuickSort.java)
