@@ -10,7 +10,7 @@ If the list becomes too long you can search the program using `ctrl + f` on wind
    - [Prime numbers](./programs/Prime.java)
    - [Even or Odd number](programs/Evennums.java)
    - [Sum of first N numbers](programs/SumOfNNumbers.java)
-   - [Mutliplication of first N numbers]((programs/MutliplicationofNNumbers.java))
+   - [Mutliplication of first N numbers](programs/MutliplicationofNNumbers.java)
 - Searching
    - [Linear Search](programs/LinearSearch.java)
    - [Binary Search](programs/BinarySearch.java)
